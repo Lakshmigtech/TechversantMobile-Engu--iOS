@@ -1,0 +1,63 @@
+PODS:
+  - Alamofire (5.8.1)
+  - IQKeyboardManagerSwift (7.0.1)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - ProgressHUD (14.1.1)
+  - Stripe (23.29.2):
+    - StripeApplePay (= 23.29.2)
+    - StripeCore (= 23.29.2)
+    - StripePayments (= 23.29.2)
+    - StripePaymentsUI (= 23.29.2)
+    - StripeUICore (= 23.29.2)
+  - StripeApplePay (23.29.2):
+    - StripeCore (= 23.29.2)
+  - StripeCore (23.29.2)
+  - StripePayments (23.29.2):
+    - StripeCore (= 23.29.2)
+    - StripePayments/Stripe3DS2 (= 23.29.2)
+  - StripePayments/Stripe3DS2 (23.29.2):
+    - StripeCore (= 23.29.2)
+  - StripePaymentsUI (23.29.2):
+    - StripeCore (= 23.29.2)
+    - StripePayments (= 23.29.2)
+    - StripeUICore (= 23.29.2)
+  - StripeUICore (23.29.2):
+    - StripeCore (= 23.29.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManagerSwift
+  - NVActivityIndicatorView (~> 4.8.0)
+  - ProgressHUD
+  - Stripe
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - NVActivityIndicatorView
+    - ProgressHUD
+    - Stripe
+    - StripeApplePay
+    - StripeCore
+    - StripePayments
+    - StripePaymentsUI
+    - StripeUICore
+
+SPEC CHECKSUMS:
+  Alamofire: 3ca42e259043ee0dc5c0cdd76c4bc568b8e42af7
+  IQKeyboardManagerSwift: 7f6b1b1d1497855d2beea7f2f10ffcc6978525b1
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  ProgressHUD: abb9136ae23c85204236828562cb9a8ec98efb44
+  Stripe: 3b130927eaa796c09e1fe33c68525a14606dc81a
+  StripeApplePay: dff104aeee493627a649576a0014d76eadabceee
+  StripeCore: 9edec1b15faa6bb7f46def319cc689dc37a8d233
+  StripePayments: f1465ee56d5589630ffaf4ad873d400d8752f8f8
+  StripePaymentsUI: 6b182240135130d5d61cd8a9c48717264ac203ec
+  StripeUICore: 5f21b736a399dff66d6c8ca7e2ce3e4fd02c40fd
+
+PODFILE CHECKSUM: d54ee0cd359b7daf12b3e4eb694a6327acc2dbbd
+
+COCOAPODS: 1.15.2
